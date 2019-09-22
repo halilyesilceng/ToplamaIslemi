@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DENİZ_HOCA__20._09__Hafta1
+namespace ToplamaIslemi 
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace DENİZ_HOCA__20._09__Hafta1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Toplamaİşlemi());
         }
     }
 }
